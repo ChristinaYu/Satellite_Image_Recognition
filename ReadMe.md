@@ -1,4 +1,5 @@
 <strong>Iceberg Classifier:</strong></br>
+</br>
 Drifting icebergs present threats to navigation and activities in areas such as offshore of the East Coast of Canada.
 </br>
 Currently, many institutions and companies use aerial reconnaissance and shore-based support to monitor environmental conditions and assess risks from icebergs. However, in remote areas with particularly harsh weather, these methods are not feasible, and the only viable monitoring option is via satellite.</br>
