@@ -9,5 +9,5 @@ With given satellite image data, build an algorithm that automatically identifie
 </br>
 We used a pre-trained VGG16 model from Keras with modification to suit our situation. And the cross entropy we get is 0.1713.
 It takes about 30 minutes to do the process and classification on a K80 GPU on Google Cloud Platform.</br>
-For more detail, please view the project report.
+For more details, please view the project report.
 
