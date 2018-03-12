@@ -1,4 +1,4 @@
-<strong>Satellite Image Recognition:</strong></br>
+<strong>Satellite Image Recognition</strong></br>
 </br>
 Drifting icebergs present threats to navigation and activities in areas such as offshore of the East Coast of Canada.
 </br>
