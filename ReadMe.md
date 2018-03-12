@@ -7,7 +7,7 @@ The remote sensing systems used to detect icebergs are housed on satellites over
 The objects in the image can be visually classified. But in an image with hundreds of objects, this is very time consuming. </br></br>
 Goal: With given satellite image data, build an algorithm that automatically identifies if a remotely sensed target is a ship or iceberg.</br>
 </br>
-In this project we adopted data processing techniques, such as reshaping, normalization and augmentation. And we used a pre-trained VGG16 model from Keras with modification to suit our situation. The cross entropy we get is 0.1713.
+In this project we adopted data processing techniques such as reshaping, normalization and augmentation. And we used a pre-trained VGG16 model from Keras with modification to suit our situation. The cross entropy we get is 0.1713.
 It takes about 30 minutes to do the process and classification on a K80 GPU on Google Cloud Platform.</br>
 For more details, please view the project report.
 
